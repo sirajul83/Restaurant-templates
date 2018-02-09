@@ -1,0 +1,42 @@
+/* iPads (portrait and landscape) ----------- */
+@media (max-width: 768px) {
+	
+}
+@media (max-width: 768px) {
+	}
+@media (max-width: 603px) { 
+	.left-header img{
+		width:150px;
+		}
+	.header-margin{
+	width:50px;
+	height:10px;
+	float:left;
+	}
+}
+
+@media (max-width: 460px) {
+	.left-header img{
+		width:120px;
+		}
+	.header-margin{
+	width:30px;
+	height:10px;
+	float:left;
+	}
+	.right-header h4{
+		font-size:14px;
+		}
+	.right-header span{
+		font-size:14px;
+		}
+}
+@media (max-width: 360px) { 
+	.left-header img{
+		width:50px;
+		}
+}
+@media (max-width: 320px) { 
+	
+	
+}
